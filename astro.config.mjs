@@ -23,4 +23,6 @@ export default defineConfig({
 			],
 		}),
 	],
+	site: 'https://deining.github.io',
+	base: '/astro-starter'
 });
